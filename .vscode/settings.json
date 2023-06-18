@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "gtk.h": "c",
+        "gdkkeysyms.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
