@@ -233,3 +233,130 @@ imc.exe
 git --verson
 git --version
 clear
+git --version
+clear
+ls
+git status
+echo "# interface" >> README.md 
+ls
+git init
+git status
+clear
+git status
+git add README.md 
+git status
+clear
+git status
+git add .
+clear
+git status
+git add .
+clear
+ls
+git add 
+git add *
+clear
+git status
+clear
+clear
+git add .
+ls
+cd ..
+ls
+cd center\ music/
+clear
+git commit -m "first commit"
+git branch -M main
+clear
+git status
+git remote add origin git@github.com:carlosdesenvolvedor/interface.git
+git push -u origin main
+ls
+clear
+git status
+git add .
+git branch
+claer
+clear
+git add origin git@github.com:carlosdesenvolvedor/interface.git
+git remote add origin git@github.com:carlosdesenvolvedor/interface.git
+ls
+clear
+git add .
+cd ..
+cd home
+ls
+cd center\ music/
+clear
+git remote add origin git@github.com:carlosdesenvolvedor/interface.git
+git remote -v
+git pull
+clear
+git remote remove origin
+clear
+ls
+git status
+clear
+git remote add origin git@github.com:carlosdesenvolvedor/interface.git
+git add
+clear
+git add .
+git commit -"primeiro comentario"
+clear
+git push
+clear
+git status
+git add .
+clear
+git add .
+git commit -m "windows inicializado"
+clear
+git status
+git push
+git status
+git status
+clear
+git push -u origin main
+git status
+git log --oneline
+git remote add origin git@github.com:carlosdesenvolvedor/interface.git
+clear
+git status
+git banch
+git branch
+clear
+git push -u origin main
+ls -al ~/.ssh
+ssh-keygen -t ed25519 -C "https://github.com/carlosdesenvolvedor"
+cat /home/center\ music/.ssh/id_ed25519.pub
+ls
+git push
+ git push --set-upstream origin main
+clear
+git status
+git add .
+clear
+git staus
+git status
+git commit -m"minha chave ssh"
+clear
+git pusgh
+git push
+ls
+git status
+clear
+git add .
+git commit -m"começo de um projeto com interface utilizando arvore"
+git push
+git status
+clear
+git status
+git add .
+git commit -m"atualização "
+git status
+clear
+git status
+git push
+clear
+git status
+clear

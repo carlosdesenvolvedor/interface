@@ -1,0 +1,21 @@
+Produto: (null)
+Valor: R$ 0.00
+Quantidade: 57469344
+Subtotal: R$ 10.00
+
+Produto: (null)
+Valor: R$ 0.00
+Quantidade: 94979552
+Subtotal: R$ 360.00
+
+Produto: (null)
+Valor: R$ 0.00
+Quantidade: 57019856
+Subtotal: R$ 7.00
+
+Produto: (null)
+Valor: R$ 0.00
+Quantidade: 94656192
+Subtotal: R$ 2.00
+
+Valor total: R$ 379.00
