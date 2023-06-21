@@ -360,3 +360,9 @@ git push
 clear
 git status
 clear
+git status
+clear
+git add .
+git commit -m"projeto novo arrumar amanha"
+git push
+clear

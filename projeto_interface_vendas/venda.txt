@@ -1,21 +1,7 @@
-Produto: (null)
-Valor: R$ 0.00
-Quantidade: 57469344
-Subtotal: R$ 10.00
-
-Produto: (null)
-Valor: R$ 0.00
-Quantidade: 94979552
-Subtotal: R$ 360.00
-
-Produto: (null)
-Valor: R$ 0.00
-Quantidade: 57019856
-Subtotal: R$ 7.00
-
-Produto: (null)
-Valor: R$ 0.00
-Quantidade: 94656192
-Subtotal: R$ 2.00
-
-Valor total: R$ 379.00
+Data: 20/06/2023
+Produto: asdfg | Valor: 505.00 | Quantidade: 3 | Subtotal: 1515.00
+Valor Total: 1515.00
+Forma de Pagamento: PIX
+********* Valor Total do Dia: R$ 2515.00 ************
+----------------------------------------------------
+Valor Total do Dia: R$ -0.00
