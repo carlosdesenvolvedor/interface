@@ -366,3 +366,40 @@ git add .
 git commit -m"projeto novo arrumar amanha"
 git push
 clear
+center music@DESKTOP-GN0OBPN MSYS ~
+$
+sudo apt install libglib2.0-dev
+install libglib2.0-dev
+apt install libglib2.0-dev
+pacman -S mingw-w64-x86_64-glib2
+clear
+git status
+git add .
+git commit -m"projeto venda"
+clear
+git push
+clear
+ls
+mkdir sistema_cadastro_emC
+cd sistema_cadastro_emC/
+touch cadastro_de_cliente.c
+clear
+touch interface.glade
+cd ..
+cd ..
+ls
+ced ..
+cd ..
+ls
+cd bin
+ls
+cd lib
+clea
+clear
+cd ..
+cd ..
+ls
+cd ..
+clear
+ls
+sudo apt install libglib2.0-dev

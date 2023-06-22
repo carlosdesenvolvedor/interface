@@ -1,7 +1,6 @@
 Data: 20/06/2023
-Produto: asdfg | Valor: 505.00 | Quantidade: 3 | Subtotal: 1515.00
-Valor Total: 1515.00
+Produto: violino | Valor: 500.00 | Quantidade: 1 | Subtotal: 500.00
+Valor Total: 500.00
 Forma de Pagamento: PIX
-********* Valor Total do Dia: R$ 2515.00 ************
+********* Valor Total do Dia: R$ 810.00 ************
 ----------------------------------------------------
-Valor Total do Dia: R$ -0.00
