@@ -411,3 +411,16 @@ git commit -m"novo projeto de Árvore"
 git push
 code .
 clear
+git status
+git add .
+cleaer
+gi status
+claera
+git status
+clear
+git commit -m "novos projetos inclundo um sistema com interface de um sistema de cadastro de serviços"
+git push
+clear
+git push
+clear
+git pull
