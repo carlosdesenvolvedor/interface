@@ -1,0 +1,76 @@
+
+Data de Entrada: 23/06/2023
+Instrumento: primeiro
+Valor do Serviço: 654.00
+Desconto: 54.00
+Descrição do serviço: laksdfj 
+Valor Total: 600.00
+
+ código: 1
+
+				Total Geral: 0.00
+
+
+				Total Geral: 600.00
+
+==========================================================
+Data de Entrada: 23/06/2023
+Instrumento: primeiro 2
+Valor do Serviço: 654.00
+Desconto: 54.00
+Descrição do serviço: laksdfj 
+Valor Total: 600.00
+
+ código: 2
+
+				Total Geral: 1200.00
+
+==========================================================
+Data de Entrada: 23/06/2023
+Instrumento: primeiro 2
+Valor do Serviço: 654.00
+Desconto: 54.00
+Descrição do serviço: laksdfj 
+Valor Total: 600.00
+
+ código: 3
+
+				Total Geral: 1800.00
+
+==========================================================
+Data de Entrada: 23/06/2023
+Instrumento: outrofalkdj
+Valor do Serviço: 150.00
+Desconto: 50.00
+Descrição do serviço: 'lakdsjf 
+Valor Total: 100.00
+
+ código: 4
+
+				Total Geral: 1900.00
+
+==========================================================
+Data de Entrada: 23/06/2023
+Instrumento: outro
+Valor do Serviço: 150.00
+Desconto: 10.00
+Descrição do serviço: laksdfj
+Valor Total: 140.00
+
+ código: 5
+
+				Total Geral: 2040.00
+
+==========================================================
+Data de Entrada: 23/06/2023
+Instrumento: adsfasdf
+Valor do Serviço: 700.00
+Desconto: 50.00
+Descrição do serviço: asdfa
+Valor Total: 650.00
+
+ código: 6
+
+				Total Geral: 2690.00
+
+==========================================================

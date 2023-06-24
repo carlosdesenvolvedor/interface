@@ -403,3 +403,11 @@ cd ..
 clear
 ls
 sudo apt install libglib2.0-dev
+clear
+ls
+git status
+git add .
+git commit -m"novo projeto de Árvore"
+git push
+code .
+clear
