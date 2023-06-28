@@ -424,3 +424,25 @@ clear
 git push
 clear
 git pull
+git status
+git add .
+git status
+clear
+git commit -m "último arquivo "
+clear
+cd ..
+ls
+git satus
+git ~
+clear
+ls
+cd ..
+ls
+cd home/
+cls
+clear
+cd center\ music/
+clear
+ls
+git status
+git push
