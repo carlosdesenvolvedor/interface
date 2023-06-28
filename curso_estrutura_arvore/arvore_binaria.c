@@ -52,6 +52,13 @@ void imprimir_versao_2(NoArv *raiz){
     }
 
 }
+void imprimir_versao_3(NoArv *raiz) {
+    if (raiz) {
+        imprimir_versao_3(raiz->esquerda);
+        imprimir_versao_3(raiz->direita);
+        printf("%d ", raiz->valor);
+    }
+}
 
 
 
@@ -59,40 +66,29 @@ int main(){
 
     NoArv *raiz = NULL; 
 
-    raiz = inserir_varsao_1(raiz,50);
-    raiz = inserir_varsao_1(raiz,25);
-    raiz = inserir_varsao_1(raiz,100);
-    raiz = inserir_varsao_1(raiz,30);
-    printf("---- ---primeiro caso  -------------\n");
-    imprimir_versao_1(raiz);
-    printf("\n------------------------------------");
-     printf("\n---- ---segundo caso ordenado  -------------\n");
-    imprimir_versao_2(raiz);
-    printf("\n------------------------------------");
-    int opcao,valor;
-    do{
+     int opcao, valor;
+    do {
         printf("\n0 - sair\n1 - inserir\n2 - imprimir\n");
-        scanf("%d",&opcao);
-        switch (opcao)
-        {
-        case 1:
-            printf("digite um valor: \n");
-            scanf("%d",&valor);
-            raiz = inserir_varsao_1(raiz, valor);
-            break;
-        case 2:
-            printf("\n-----versão 1 ---------- \n");
-            imprimir_versao_1(raiz);
-            printf("\n-------- versão 2 -----------\n");
-            imprimir_versao_2(raiz);
-            break;
-        default:
-            printf("opção invalida!!!");
-            break;
+        scanf("%d", &opcao);
+        switch (opcao) {
+            case 1:
+                printf("digite um valor: \n");
+                scanf("%d", &valor);
+                raiz = inserir_varsao_1(raiz, valor);
+                break;
+            case 2:
+                printf("\n----- versão pré-ordem ----------\n");
+                imprimir_versao_1(raiz);
+                printf("\n-------- versão em ordem ----------\n");
+                imprimir_versao_2(raiz);
+                printf("\n----- versão pós-ordem ----------\n");
+                imprimir_versao_3(raiz);
+                break;
+            default:
+                printf("opção inválida!!!");
+                break;
         }
-
-
-    }while(opcao != 0);
+    } while (opcao != 0);
 
 
     return 0;

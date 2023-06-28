@@ -446,3 +446,38 @@ clear
 ls
 git status
 git push
+git status
+git add .
+git commit  -m "sistema de serviços alex"
+clear
+git push
+clear
+git status
+clear
+mkdir curso_estrutura_arvore
+cls
+clear
+cd curso_estrutura_arvore/
+ls
+clar
+clear
+touch arvore_binaria.c
+cls
+clear
+ls
+cd ..
+clear
+git status
+git add .
+git commit -m "novo projeto para código que faz busca em uma arvore"
+cleaer
+clear
+git status
+git push
+clear
+ls
+cd curso_estrutura_arvore/
+clear
+ls
+arvore_binaria.exe
+clear
